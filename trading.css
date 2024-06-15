@@ -146,6 +146,9 @@ clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%)
   .trading-item:hover .trade-container-right button{
     color: var(--secondary-color);
   }
+ .trade-container-right ul{
+    margin-left: 15px;
+  }
   .trade h2{
     margin: 10px;
     text-align: center;
