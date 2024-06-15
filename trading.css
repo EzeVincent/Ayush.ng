@@ -195,11 +195,11 @@ clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%)
   
   .trade-container-right li{
     margin: 5px;
-    font-size: 18px;
+    font-size: 15px;
   }
   .trade-container-right li ul{
     margin-left: 10px;
-    font-size: 14px;
+    font-size: 12px;
   }
   
   
