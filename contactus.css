@@ -145,7 +145,7 @@
 
 .map-side{
   width: 100vw;
-  padding: 20px;
+  padding: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -156,7 +156,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 0px 30px;
+  margin: 0px 20px;
   padding: 20px;
 }
 .map h2{
